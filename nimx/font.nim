@@ -173,6 +173,7 @@ const preferredFonts = when defined(js) or defined(windows) or defined(emscripte
         ]
     else:
         [
+            "LiberationSans-Regular",
             "Ubuntu-R",
             "DejaVuSans"
         ]
